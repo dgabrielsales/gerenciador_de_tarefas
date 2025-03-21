@@ -6,13 +6,12 @@ Este é um gerenciador de tarefas simples que permite criar, visualizar e exclui
 
 * **Criar tarefas:** Adicione novas tarefas.
 * **Listar tarefas:** Visualize todas as tarefas existentes.
-* **Atualizar tarefas:** Modifique a descrição de uma tarefa.
 * **Excluir tarefas:** Remova tarefas que não são mais necessárias.
 
 ## Como usar
 
 1.  **Instalação:**
-    * Clone este repositório: `git clone https://m.youtube.com/shorts/7cxjaLvTTDg`
+    * Clone este repositório: `git clone https://github.com/dgabrielsales/gerenciador_de_tarefas.git`
     * Navegue até o diretório do projeto
     * (Se necessário) Instale as dependências: `pip install requirements.txt`
 
